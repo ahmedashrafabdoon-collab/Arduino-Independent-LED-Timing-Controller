@@ -9,7 +9,7 @@ Two LEDs operate with different timing intervals using a single reusable functio
 ---
 ## Demo
 
-![LED Controller Demo](assets/led-demo.gif.gif)
+![LED Controller Demo](assets/led-demo.gif)
 
 ---
 ## Hardware Components
