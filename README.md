@@ -33,8 +33,8 @@ Each LED should be connected with a suitable current-limiting resistor.
 
 | LED | Pin | Timing Interval |
 |---|---:|---:|
-| LED 1 | 8 | 500 ms |
-| LED 2 | 9 | 1500 ms |
+| LED 1 | 8 | 250 ms |
+| LED 2 | 9 | 1000 ms |
 
 Both LEDs operate independently, with each maintaining its own timing reference and current state.
 
